@@ -6,4 +6,6 @@
     <string name="chronometer_text">Осталось до экзамена</string>
     <string name="classes">Занятия</string>
     <string name="homework">Домашнее задание</string>
+    <string name="start_exam">Экзамен начался!!!</string>
+    <string name="skype">Skype</string>
 </resources>
